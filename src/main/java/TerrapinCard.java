@@ -33,7 +33,7 @@ public class TerrapinCard {
     
   }
 
-  public double getAmt{
+  public double getBalance(){
     return balance;
   }
 }
